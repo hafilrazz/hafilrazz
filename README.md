@@ -39,12 +39,6 @@ Turning ideas into reality, one commit at a time.
 - MySQL / PostgreSQL
 - Docker (Learning)
 
-🔄 Currently Learning
-- TypeScript
-- Next.js
-- Machine Learning basics
-- System Design
-
 🎓 Education
 
 Bachelor of Engineering in Computer Science  
