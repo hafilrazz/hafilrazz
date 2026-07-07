@@ -1,16 +1,64 @@
-## Hi there 👋
+👋 Hi, I'm Hafil Razak
 
-<!--
-**hafilrazz/hafilrazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science Student | Aspiring Software Engineer | Tech Enthusiast**
 
-Here are some ideas to get you started:
+ 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate Computer Science student who loves building things and solving real-world problems through code. I'm currently focused on strengthening my skills in software development, data structures & algorithms, and modern web technologies.
+
+I enjoy working on projects that combine clean code with practical impact. Always eager to learn new technologies and collaborate with like-minded people.
+
+Turning ideas into reality, one commit at a time.
+
+🛠️ Skills & Tech Stack
+
+### 💻 Programming Languages
+- Python
+- Java
+- C / C++
+- JavaScript
+- SQL
+
+🌐 Web Development
+- HTML5, CSS3, JavaScript
+- React.js
+- Node.js / Express.js
+- Tailwind CSS
+
+🧠 Core CS Concepts
+- Data Structures & Algorithms
+- Object-Oriented Programming (OOP)
+- Database Management Systems
+- Operating Systems
+- Computer Networks
+
+🛠️ Tools & Technologies
+- Git & GitHub
+- VS Code
+- Postman
+- MySQL / PostgreSQL
+- Docker (Learning)
+
+🔄 Currently Learning
+- TypeScript
+- Next.js
+- Machine Learning basics
+- System Design
+
+🎓 Education
+
+Bachelor of Engineering in Computer Science  
+Sahyadri College Of Engineering And Management
+2024-27 – Present
+
+
+## 📫 Let's Connect!
+
+- **LinkedIn**: [linkedin.com/in/hafilrazz](https://www.linkedin.com/in/hafilrazz)
+- **GitHub**: [github.com/hafilrazz](https://github.com/hafilrazz)
+- **Email**: [your-email@example.com] *(add your email if you want)*
+
+---
+
+⭐ **Thanks for visiting my profile!**  
+Feel free to star my repositories or connect with me on LinkedIn.
