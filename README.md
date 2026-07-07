@@ -54,11 +54,7 @@ Sahyadri College Of Engineering And Management
 
 ## 📫 Let's Connect!
 
-- **LinkedIn**: [linkedin.com/in/hafilrazz](https://www.linkedin.com/in/hafilrazz)
-- **GitHub**: [github.com/hafilrazz](https://github.com/hafilrazz)
-- **Email**: [your-email@example.com] *(add your email if you want)*
+LinkedIn: [linkedin.com/in/hafilrazz](https://www.linkedin.com/in/hafilrazz)
 
----
-
-⭐ **Thanks for visiting my profile!**  
+Thanks for visiting my profile!
 Feel free to star my repositories or connect with me on LinkedIn.
