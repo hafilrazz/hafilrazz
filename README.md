@@ -35,10 +35,24 @@
 
 ---
 
-## GitHub Trophies
+## Socials
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hafilrazz&theme=tokyonight&no-frame=true&row=1" />
+  <a href="https://github.com/hafilrazz">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/hafilrazz">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/hafilrazz">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/hafilrazz">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.twitch.tv/hafilrazz">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
+  </a>
 </p>
 
 ---
