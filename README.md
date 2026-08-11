@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-    Software Engineer • Tech Enthusiast
+  Software Engineer • Tech Enthusiast
 </p>
 
 <p align="center">
@@ -38,12 +38,12 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hafilrazz&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=F5CB5C&icon_color=F5CB5C" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafilrazz&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hafilrazz&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=F5CB5C&icon_color=F5CB5C&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafilrazz&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hafilrazz&theme=dark&hide_border=true&background=0D1117&ring=F5CB5C&fire=F5CB5C&currStreakLabel=F5CB5C" />
+  <img src="https://streak-stats.demolab.com/?user=hafilrazz&theme=dark&hide_border=true&background=0D1117&ring=F5CB5C&fire=F5CB5C&currStreakLabel=F5CB5C" />
 </p>
 
 ---
