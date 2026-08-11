@@ -1,42 +1,61 @@
-# Hi, I'm Hafil Razak 👋
-
-**Computer Science Student** | Aspiring Software Engineer | Building & Learning
-
-📍 India · [Portfolio](https://hafilrazz.github.io) · [LinkedIn](https://www.linkedin.com/in/hafilrazz)
-
----
-
-### About
-
-I'm a Computer Science undergrad at Sahyadri College of Engineering and Management (2024–2027).  
-I enjoy turning ideas into working projects, exploring full-stack development, and strengthening my foundations in DSA and software engineering.
-
-Currently focused on writing clean code, learning by building, and improving.
-
----
-
-### Tech Stack
-
-`Python` `Java` `C++` `JavaScript` `HTML` `CSS` `React` `Node.js` `Express`  
-`MongoDB` `MySQL` `PostgreSQL` `Git` `GitHub` `Docker` `VS Code` `Figma`
-
----
-
-### GitHub Stats
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=2000&color=F5CB5C&center=true&vCenter=true&width=940&lines=Hi+there+I'm+Hafil+Razak;Computer+Science+Student;Aspiring+Software+Engineer;Tech+Enthusiast;Building+things+and+learning+as+I+go" alt="Typing SVG" />
+</div>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=hafilrazz&show_icons=true&theme=radical&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafilrazz&layout=compact&theme=radical&hide_border=true" />
+  Computer Science Student • Aspiring Software Engineer • Tech Enthusiast
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hafilrazz&theme=radical&hide_border=true" />
+  <a href="https://hafilrazz.github.io">
+    portfolio
+  </a>
+  •
+  <a href="https://www.linkedin.com/in/hafilrazz">
+    linkedin
+  </a>
 </p>
 
 ---
 
-### Let's Connect
+## About Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://hafilrazz.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafilrazz)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hafilrazz)
+- Computer Science undergrad at Sahyadri College of Engineering and Management (2024–2027)
+- Passionate about turning ideas into real projects through clean and practical code
+- Currently diving deep into software development, DSA, and full-stack web technologies
+- Love building things, breaking them, fixing them, and learning something new every time
+
+---
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,nodejs,express,mongodb,mysql,postgres,git,github,docker,vscode,figma&perline=12" />
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hafilrazz&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=F5CB5C&icon_color=F5CB5C" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafilrazz&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" />
+</p>
+
+---
+
+## Contribution Activity
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hafilrazz&theme=github-compact&hide_border=true&bg_color=0D1117&color=F5CB5C&line=DAFFDA&point=FFFFFF)
+
+---
+
+<p align="center">
+  You can explore my projects and experiments on my portfolio.
+</p>
+
+<p align="center">
+  <a href="https://hafilrazz.github.io">
+    visit portfolio
+  </a>
+</p>
