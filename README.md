@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=2000&color=F5CB5C&center=true&vCenter=true&width=940&lines=Hi+there+I'm+Hafil+Razak;Computer+Science+Student;Aspiring+Software+Engineer;Tech+Enthusiast;Building+things+and+learning+as+I+go" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1500&color=F5CB5C&center=true&vCenter=true&width=600&lines=I'm+Hafil+Razak" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -20,10 +20,10 @@
 
 ## About Me
 
-- Computer Science undergrad at Sahyadri College of Engineering and Management (2024–2027)
-- Passionate about turning ideas into real projects through clean and practical code
-- Currently diving deep into software development, DSA, and full-stack web technologies
-- Love building things, breaking them, fixing them, and learning something new every time
+- Final year Computer Science student at Sahyadri College of Engineering and Management
+- Exploring full-stack development, problem-solving, and building real-world applications
+- Interested in creating useful projects that combine clean design with solid functionality
+- Always open to learning new technologies and collaborating with others
 
 ---
 
@@ -40,6 +40,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hafilrazz&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=F5CB5C&icon_color=F5CB5C" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafilrazz&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hafilrazz&theme=dark&hide_border=true&background=0D1117&ring=F5CB5C&fire=F5CB5C&currStreakLabel=F5CB5C" />
 </p>
 
 ---
