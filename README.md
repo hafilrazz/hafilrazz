@@ -58,7 +58,7 @@
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hafilrazz&theme=github" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hafilrazz&theme=github_dark" alt="Profile Details" />
 </p>
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hafilrazz&theme=github)
