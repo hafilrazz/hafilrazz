@@ -57,7 +57,7 @@
 
 ## Contribution Activity
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hafilrazz&theme=github-compact&hide_border=true&bg_color=0D1117&color=F97316&line=F97316&point=FFFFFF)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hafilrazz&theme=github-compact&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF)
 
 ---
 
