@@ -35,15 +35,10 @@
 
 ---
 
-## GitHub Stats
+## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hafilrazz&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafilrazz&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=hafilrazz&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hafilrazz&theme=tokyonight&no-frame=true&row=1" />
 </p>
 
 ---
