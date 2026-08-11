@@ -47,10 +47,10 @@
 
 ---
 
-## Contribution Snake
+## GitHub Streak
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hafilrazz/hafilrazz/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://streak-stats.demolab.com/?user=hafilrazz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
