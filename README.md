@@ -50,7 +50,7 @@
 ## GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=hafilrazz&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=hafilrazz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
