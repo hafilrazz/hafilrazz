@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1500&color=F5CB5C&center=true&vCenter=true&width=600&lines=I'm+Hafil+Razak" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1500&color=00D4FF&center=true&vCenter=true&width=600&lines=I'm+Hafil+Razak" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -38,19 +38,19 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hafilrazz&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=F5CB5C&icon_color=F5CB5C&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafilrazz&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hafilrazz&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafilrazz&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=hafilrazz&theme=dark&hide_border=true&background=0D1117&ring=F5CB5C&fire=F5CB5C&currStreakLabel=F5CB5C" />
+  <img src="https://streak-stats.demolab.com/?user=hafilrazz&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## Contribution Activity
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hafilrazz&theme=github-compact&hide_border=true&bg_color=0D1117&color=F5CB5C&line=DAFFDA&point=FFFFFF)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hafilrazz&theme=react&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF)
 
 ---
 
