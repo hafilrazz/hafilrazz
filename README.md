@@ -57,6 +57,10 @@
 
 ## Contribution Activity
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hafilrazz&theme=github" alt="Profile Details" />
+</p>
+
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hafilrazz&theme=github)
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hafilrazz&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF)
