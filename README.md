@@ -55,6 +55,12 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hafilrazz&theme=github_dark" alt="Profile Details" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/hafilrazz">
+    <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=hafilrazz&theme=nord&headerStyle=windows&commands=neofetch,languages,top-repos,uptime,exit" alt="GitHub Stats Terminal" />
+  </a>
+</p>
+
 ---
 
 <p align="center">
