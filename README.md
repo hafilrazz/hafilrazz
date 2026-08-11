@@ -50,12 +50,14 @@
 ## GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=hafilrazz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=hafilrazz&theme=github_dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## Contribution Activity
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hafilrazz&theme=github)
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hafilrazz&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF)
 
