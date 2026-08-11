@@ -6,16 +6,6 @@
   Software Engineer • Tech Enthusiast
 </p>
 
-<p align="center">
-  <a href="https://hafilrazz.github.io">
-    portfolio
-  </a>
-  •
-  <a href="https://www.linkedin.com/in/hafilrazz">
-    linkedin
-  </a>
-</p>
-
 ---
 
 ## About Me
@@ -64,7 +54,7 @@
 ---
 
 <p align="center">
-  You can explore my projects and experiments on my portfolio.
+  
 </p>
 
 <p align="center">
