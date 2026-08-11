@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1500&color=00D4FF&center=true&vCenter=true&width=600&lines=I'm+Hafil+Razak" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1500&color=00C853&center=true&vCenter=true&width=600&lines=I'm+Hafil+Razak" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -47,15 +47,19 @@
 
 ---
 
-## Contribution Activity
+## Contribution Snake
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hafilrazz&theme=react&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hafilrazz/hafilrazz/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
 
 ---
 
-<p align="center">
-  
-</p>
+## Contribution Activity
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hafilrazz&theme=react&hide_border=true&bg_color=0D1117&color=00C853&line=00C853&point=FFFFFF)
+
+---
 
 <p align="center">
   <a href="https://hafilrazz.github.io">
