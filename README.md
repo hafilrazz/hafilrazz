@@ -16,15 +16,6 @@
 
 ---
 
-## About Me
-
-- Final year Computer Science student at Sahyadri College of Engineering and Management
-- Exploring full-stack development, problem-solving, and building real-world applications
-- Interested in creating useful projects that combine clean design with solid functionality
-- Always open to learning new technologies and collaborating with others
-
----
-
 ## Tech Stack
 
 <p align="center">
