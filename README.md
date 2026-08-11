@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  Computer Science Student • Aspiring Software Engineer • Tech Enthusiast
+    Software Engineer • Tech Enthusiast
 </p>
 
 <p align="center">
