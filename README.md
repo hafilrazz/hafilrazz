@@ -59,7 +59,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hafilrazz&theme=github_dark" alt="Profile Details" />
 </p>
 
-
+[![Bitconnect](https://githubcard.com/hafilrazz/Bitconnect.svg)](https://github.com/hafilrazz/Bitconnect)
 
 ---
 
