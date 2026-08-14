@@ -64,9 +64,9 @@
 ## Working on 
 <p align="center">
 <a href="https://github.com/hafilrazz/Bitconnect">
-  <img src="https://githubcard.com/hafilrazz/Bitconnect.svg" alt="Bitconnect" width="400"/>
+  <img src="https://githubcard.com/hafilrazz/Bitconnect.svg" alt="Bitconnect" width="500"/>
 </a>
-</p>p>
+</p>
 
 ---
 
