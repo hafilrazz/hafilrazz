@@ -24,9 +24,6 @@
 </p>
 
 ---
-<p align="center">
-[![committers.top badge](https://user-badge.committers.top/india/hafilrazz.svg)](https://user-badge.committers.top/india/hafilrazz)
-</p>
 
 ## Socials
 
