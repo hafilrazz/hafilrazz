@@ -65,9 +65,6 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/sponsors/hafilrazz">
-    <img src="https://img.shields.io/badge/Sponsor%20Me-0D1117?style=for-the-badge&logo=githubsponsors&logoColor=ea4aaa" alt="Sponsor" />
-  </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://hafilrazz.github.io">
     <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=github&logoColor=00C853" alt="Portfolio" />
